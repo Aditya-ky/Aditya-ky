@@ -16,7 +16,7 @@ I'm on a mission to develop great applications with awesome functionalities. Whi
 
 While I'm busy coding up the next project that'll grace this space, here are some interests that keep me motivated:
 
-- Counter strike
+- Counter Strike
 - Sketching
 - Watching Anime
 
